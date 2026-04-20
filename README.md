@@ -1,0 +1,1 @@
+master sends address+R/W and the simulated sensor is watching the bus and sets different flags that go into the interrupt and then the interrupt decides what to do and what the simulated sensor will put back onto the bus
